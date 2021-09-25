@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **mucozcan/mucozcan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=03A062&vCenter=true&width=600&lines=Hi%2C+I'm+M%C3%BCcteba.+A+Computer+Vision+Engineer.;Follow+the+White+Rabbit...)](https://git.io/typing-svg)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mucozcan&theme=radical)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mucozcan&show_icons=true&theme=radical)
+](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mucozcan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
